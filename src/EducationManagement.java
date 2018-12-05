@@ -15,7 +15,6 @@ public class EducationManagement {
     static {
         JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
         /*
-         * TODO qtmd 那个url需要特殊设置
          *todo jdbc:mysql://localhost:3306/educationmanagement?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8&useSSL=false
          */
         DB_URL = "jdbc:mysql://localhost:3306/educationmanagement?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8&useSSL=false";

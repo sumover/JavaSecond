@@ -1,5 +1,5 @@
 public class Student implements Comparable<Student> {
-    // å­¦å·ã€å§“åã€æ€§åˆ«ã€ç”Ÿæ—¥ã€æ‰€åœ¨å­¦é™¢ã€ç­çº§
+    // Ñ§ºÅ¡¢ĞÕÃû¡¢ĞÔ±ğ¡¢ÉúÈÕ¡¢ËùÔÚÑ§Ôº¡¢°à¼¶
     private String number, name, birthday, college, Class, city, password;
     private boolean sex;
     private Integer cityNumber;
