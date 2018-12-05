@@ -1,4 +1,4 @@
-public class Student {
+public class Student implements Comparable<Student> {
     // 学号、姓名、性别、生日、所在学院、班级
     private String number, name, birthday, college, Class, city, password;
     private boolean sex;
@@ -118,4 +118,10 @@ public class Student {
     public void setPassword(String password) {
         this.password = password;
     }
+
+    @Override
+    public int compareTo(Student o) {
+        return name.compareTo(o.name);
+    }
+
 }
