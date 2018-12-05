@@ -1,0 +1,3 @@
+INSERT INTO educationmanagement.student (number, name, sex, birthday, college, class, city, password, city_number) VALUES ('201701061129', 'gugugu', 1, '1999/3/1', 'Computer', '2017软件工程三班', 'Eir', '123456', null);
+INSERT INTO educationmanagement.student (number, name, sex, birthday, college, class, city, password, city_number) VALUES ('201701061132', 'sumover', 1, '2000/5/9', 'Computer', '2017软件工程三班', 'Mars', '2323180', null);
+INSERT INTO educationmanagement.student (number, name, sex, birthday, college, class, city, password, city_number) VALUES ('201701061133', '大哥', 1, '1996/11/6', 'Computer', '2017软件工程三班', 'Earth', '123456', null);
