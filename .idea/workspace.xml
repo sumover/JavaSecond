@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c88abe-136b-4dcd-8886-9376c4f4ec77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/EducationManagementTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSecond/EducationManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSecond.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSecond.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaSecond/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSecond/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/EducationManagementTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +14,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaSecond$All_in_JavaSecond.ic" NAME="All in JavaSecond Coverage Results" MODIFIED="1544059506043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -50,7 +52,7 @@
     <session id="-1318285003">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="1" />
@@ -61,24 +63,25 @@
           <entry key="project.open.time.49" value="4" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.76" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="457" />
-          <entry key="java" value="13582" />
+          <entry key="java" value="13711" />
           <entry key="sql" value="800" />
           <entry key="txt" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13581" />
+          <entry key="JAVA" value="13710" />
           <entry key="PLAIN_TEXT" value="60" />
           <entry key="SQL" value="153" />
           <entry key="Scratch" value="1105" />
@@ -87,7 +90,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="SCHEMA:educationmanagement" value="1" />
-          <entry key="java" value="13" />
+          <entry key="java" value="18" />
           <entry key="sql" value="11" />
           <entry key="student" value="6" />
           <entry key="txt" value="1" />
@@ -97,7 +100,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="7" />
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="18" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SQL" value="2" />
           <entry key="Scratch" value="9" />
@@ -108,11 +111,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EducationManagement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="207">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#EducationManagement#0;class#EducationManagement#0" />
@@ -123,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/EducationManagementTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="23">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            <state relative-caret-position="483">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding>
                 <element signature="e#2899#2900#0" expanded="true" />
                 <element signature="e#2944#2945#0" expanded="true" />
@@ -162,15 +165,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
               <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Databases/educationmanagement_student.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -201,8 +195,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e467f2cc-934d-4e8e-994f-a4f0a89a549b/console_1.sql" />
         <option value="$PROJECT_DIR$/src/Student.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e467f2cc-934d-4e8e-994f-a4f0a89a549b/console.sql" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/EducationManagement.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/test/EducationManagementTest.java" />
       </list>
     </option>
@@ -220,10 +214,29 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
+    <option name="x" value="55" />
     <option name="width" value="666" />
     <option name="height" value="775" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>WrongPackageStatement</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -249,12 +262,18 @@
               <item name="JavaSecond" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaSecond" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSecond" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,7 +283,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544051210902" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544059838226" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="database.data.extractors.current.id" value="Tab-separated (TSV)_id" />
@@ -291,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EducationManagementTest">
+  <component name="RunManager" selected="Application.EducationManagement">
     <configuration name="EducationManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EducationManagement" />
       <module name="JavaSecond" />
@@ -304,6 +323,14 @@
       <module name="JavaSecond" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in JavaSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSecond" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -326,9 +353,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.EducationManagement" />
       <item itemvalue="JUnit.EducationManagementTest" />
+      <item itemvalue="JUnit.All in JavaSecond" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in JavaSecond" />
         <item itemvalue="JUnit.EducationManagementTest" />
         <item itemvalue="Application.EducationManagement" />
       </list>
@@ -362,7 +391,8 @@
       <workItem from="1543993882115" duration="247000" />
       <workItem from="1544025488193" duration="5849000" />
       <workItem from="1544032178092" duration="603000" />
-      <workItem from="1544050504085" duration="482000" />
+      <workItem from="1544050504085" duration="1953000" />
+      <workItem from="1544058901191" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="delete a 文件夹">
       <created>1544027897416</created>
@@ -392,11 +422,30 @@
       <option name="project" value="LOCAL" />
       <updated>1544032800231</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Junit">
+      <created>1544051061278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544051061278</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Junit">
+      <created>1544051229967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544051229967</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_JavaSecond - 2018.12.06 at 09h 25m 09s.xml">
+      <configuration name="All in JavaSecond" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48910000" />
+    <option name="totallyTimeSpent" value="51047000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -410,6 +459,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Image Layers" order="1" />
@@ -418,11 +468,11 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="7" weight="0.26152623" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.2611111" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.38485804" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3294893" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3294893" />
-      <window_info anchor="bottom" id="Database Changes" order="3" weight="0.4151565" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007949" side_tool="true" weight="0.4148265" />
+      <window_info anchor="bottom" id="Database Changes" order="3" sideWeight="0.49920508" weight="0.4148265" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3294893" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
@@ -430,17 +480,19 @@
       <window_info anchor="bottom" id="TODO" order="8" weight="0.3294893" />
       <window_info anchor="bottom" id="Database Console" order="9" weight="0.44164038" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.42271292" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5007874" side_tool="true" weight="0.38333333" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.19952305" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="5" visible="true" weight="0.3298887" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3298887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" weight="0.30763116" />
+      <window_info anchor="right" id="Run" order="9" sideWeight="0.4992126" weight="0.38333333" />
       <window_info anchor="right" id="Messages" order="10" weight="0.33863276" />
+      <window_info anchor="right" x="188" y="275" width="1120" height="584" id="Byte Code Viewer" order="11" type="FLOATING" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,9 +593,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Databases/educationmanagement_student.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        <state relative-caret-position="46">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -554,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Databases/educationmanagement_student.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://e467f2cc-934d-4e8e-994f-a4f0a89a549b/schema/educationmanagement/table/student">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -568,20 +616,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/EducationManagementTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        <state relative-caret-position="483">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding>
             <element signature="e#2899#2900#0" expanded="true" />
             <element signature="e#2944#2945#0" expanded="true" />
@@ -591,13 +629,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EducationManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="207">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#EducationManagement#0;class#EducationManagement#0" />
             <element signature="method#getStudentByNo#0;class#EducationManagement#0" />
             <element signature="method#setPassword#0;class#EducationManagement#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/EducationManagementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

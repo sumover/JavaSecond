@@ -1,4 +1,5 @@
-package test;
+package test.;
+
 
 import org.junit.Test;
 import org.junit.Before;
@@ -67,7 +68,7 @@ public class EducationManagementTest {
      */
     @Test
     public void testClose() throws Exception {
-//TODO: Test goes here...
+//TODO: Test goes here... 
     }
 
 
